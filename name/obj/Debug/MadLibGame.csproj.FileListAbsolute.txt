@@ -1,0 +1,6 @@
+C:\Users\13179\source\repos\name\name\bin\Debug\name.exe.config
+C:\Users\13179\source\repos\name\name\bin\Debug\name.exe
+C:\Users\13179\source\repos\name\name\bin\Debug\name.pdb
+C:\Users\13179\source\repos\name\name\obj\Debug\MadLibGame.csprojAssemblyReference.cache
+C:\Users\13179\source\repos\name\name\obj\Debug\name.exe
+C:\Users\13179\source\repos\name\name\obj\Debug\name.pdb
